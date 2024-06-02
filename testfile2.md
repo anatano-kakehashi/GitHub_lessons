@@ -1,6 +1,3 @@
 hello
 
 hi
-
-
-hello world
